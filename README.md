@@ -1,13 +1,14 @@
 # RealEstate
 
 About
-Gather data to analyse real estate in Singapore
-Includes:
+Analyse real estate in Singapore
+
+Data Collection:
 
 - consolidating and updating data from URA API: https://www.ura.gov.sg/maps/api/
 - web scrapping to fill up TOP(completion) dates for new projects
 
-Tableau Dashbord
-See details of open projects of how many units are sold, remaining and the average price psf
-Take a look at the average prices based on factors like tenure type, market segment, district
-Looks at the rental prices over time and comparing it to average price
+Tableau Dashboard:
+https://public.tableau.com/app/profile/opx4052/viz/SingaporeRealEstate_16491286282630/PrivateHousing
+Uses data collected to anlayse the private housing market in Singapore.
+Takes a look into the prices across different factors such as location, floor level, tenure type with details on the transactions and current housing development sales status
