@@ -11,6 +11,6 @@ Analyse real estate in Singapore
 
 **Tableau Dashboard:**
 
-https://public.tableau.com/app/profile/opx4052/viz/SingaporeRealEstate_16491286282630/PrivateHousing
-Uses data collected to anlayse the private housing market in Singapore.
+https://public.tableau.com/app/profile/opx4052/viz/SingaporeRealEstate_16491286282630/PrivateHousing \
+Uses data collected to anlayse the private housing market in Singapore.\
 Takes a look into the prices across different factors such as location, floor level, tenure type with details on the transactions and current housing development sales status
