@@ -8,6 +8,8 @@ Analyse real estate in Singapore
 
 - consolidating and updating data from URA API: https://www.ura.gov.sg/maps/api/
 - web scrapping to fill up TOP(completion) dates for new projects
+- Step1: Get and transform API data: https://github.com/opxcode/RealEstate/blob/main/URA_API.ipynb
+- Step2: Transform and aggregate data for dashboard: https://github.com/opxcode/RealEstate/blob/main/Property%20Analysisv2.ipynb
 
 **Tableau Dashboard:**
 
